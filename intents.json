@@ -1,0 +1,148 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": [
+        "Hello", "Hi", "Hey", "Good morning", "Good afternoon", "Good evening", "Hi there",
+        "Hey there", "Hello, eBaybayMo!", "Hi, chatbot", "Is anyone there?", "Greetings", "What's up?",
+        "How are you?", "Howdy", "Hey eBaybayMo", "Wassup?", "Helloo", "Hi bot", "Anyone here?"
+      ],
+      "responses": [
+        "Hi! Welcome to eBaybayMo. How can I help you explore Baybayin today?",
+        "Hello! Excited to connect you with the Baybayin community. What's on your mind?",
+        "Hey there! Ready to dive into eBaybayMo's features? Just ask!",
+        "Good day! I'm here to guide you through eBaybayMo's app and website.",
+        "Hi! Whether it's Baybayin scripts or shopping, I've got you covered!"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye", "See you later", "Goodbye", "Take care", "Catch you later", "Later",
+        "See you soon", "Good night", "See you again", "Till next time", "Bye bye",
+        "Take it easy", "Farewell", "Goodbye eBaybayMo", "Catch ya later", "Adios"
+      ],
+      "responses": [
+        "Bye! Come back to eBaybayMo soon!",
+        "Take care! Excited to see you again in our Baybayin community.",
+        "See you later! Keep celebrating Baybayin with eBaybayMo."
+      ]
+    },
+    {
+      "tag": "about_ebaybaymo",
+      "patterns": [
+        "What is eBaybayMo?", "Tell me about eBaybayMo", "What does eBaybayMo do?",
+        "What’s eBaybayMo all about?", "Can you explain eBaybayMo?", "What is the purpose of eBaybayMo?",
+        "What’s the eBaybayMo app?", "What’s the eBaybayMo website?", "What can I do with eBaybayMo?",
+        "How does eBaybayMo work?", "What is eBaybayMo for?", "Tell me more about eBaybayMo"
+      ],
+      "responses": [
+        "eBaybayMo is a community-driven app and website that brings Baybayin to life, connecting tattoo artists, t-shirt designers, scholars, and enthusiasts with Filipino script heritage. It offers a Baybayin community, marketplace, and translation features."
+      ]
+    },
+    {
+      "tag": "baybayin_info",
+      "patterns": [
+        "What is Baybayin?", "Tell me about Baybayin", "What’s the history of Baybayin?",
+        "Can you explain Baybayin?", "What are Baybayin characters?", "How does Baybayin work?",
+        "What’s the origin of Baybayin?", "Is Baybayin a language?", "What does Baybayin mean?",
+        "How old is Baybayin?", "Who used Baybayin?", "What’s Baybayin script?",
+        "Tell me more about Baybayin", "Why is Baybayin important?", "How is Baybayin written?"
+      ],
+      "responses": [
+        "Baybayin is an ancient Filipino writing system used before Spanish colonization, primarily by Tagalog and other ethnic groups. It’s an abugida with 17 characters—3 vowels and 14 consonants—where symbols change with diacritic marks to represent syllables. Documented in the 16th century, it was used for letters, poetry, and records. Today, it’s a symbol of Filipino cultural heritage, revived in art and education."
+      ]
+    },
+    {
+      "tag": "baybayin_community",
+      "patterns": [
+        "What is the Baybayin community?", "How does the eBaybayMo community work?",
+        "Can I join the Baybayin community?", "What’s the community feature in eBaybayMo?",
+        "How can I connect with Baybayin enthusiasts?", "Can I share Baybayin scripts?",
+        "Is there a place to post Baybayin designs?", "Can I comment on posts in eBaybayMo?",
+        "How do I interact with the Baybayin community?", "What can I do in the community section?",
+        "Are there discussions about Baybayin?", "How do I share my Baybayin learnings?"
+      ],
+      "responses": [
+        "The Baybayin community in eBaybayMo lets users connect, share Baybayin scripts, post designs, comment, and learn together with others passionate about Filipino heritage."
+      ]
+    },
+    {
+      "tag": "marketplace",
+      "patterns": [
+        "What is the eBaybayMo marketplace?", "What products does eBaybayMo sell?",
+        "Can I buy Baybayin products?", "What’s in the eBaybayMo store?", "How does the marketplace work?",
+        "What items are available on eBaybayMo?", "Can I order shirts with Baybayin?",
+        "Are there mugs on eBaybayMo?", "What does the marketplace offer?", "How do I shop on eBaybayMo?",
+        "Who sells products on eBaybayMo?", "Can I buy Baybayin-designed cups?"
+      ],
+      "responses": [
+        "eBaybayMo’s marketplace, run by the ComSoc organization, offers Baybayin-inspired products like shirts, cups, and mugs. Users can order and pick up items at the ComSoc office."
+      ]
+    },
+    {
+      "tag": "ordering_process",
+      "patterns": [
+        "How do I order on eBaybayMo?", "What’s the process to buy products?",
+        "How can I get my order?", "When will my order arrive?", "How do I pick up my order?",
+        "Where do I pay for my order?", "Is payment online or walk-in?", "Can I cancel my order?",
+        "How do I review products?", "What’s the status of my order?", "Can I change my order?",
+        "How long does delivery take?", "Where is the pickup location?"
+      ],
+      "responses": [
+        "To order on eBaybayMo, select a product, place your order, and pick it up at the ComSoc office the next day with walk-in payment. You can cancel pending orders and review products."
+      ]
+    },
+    {
+      "tag": "messenger_feature",
+      "patterns": [
+        "Does eBaybayMo have a messaging feature?", "How do I contact the seller?",
+        "Can I message ComSoc on eBaybayMo?", "How do I track my order on eBaybayMo?",
+        "Is there a chat feature in eBaybayMo?", "How can I communicate with the seller?",
+        "Can I send a message about my order?", "Where’s the message section in eBaybayMo?",
+        "How do I talk to ComSoc?", "Is there a way to chat in the app?"
+      ],
+      "responses": [
+        "eBaybayMo’s messenger feature lets you contact ComSoc, track orders, and communicate directly with the seller through the app or website’s message section."
+      ]
+    },
+    {
+      "tag": "comsoc_organization",
+      "patterns": [
+        "What is ComSoc?", "Who runs the eBaybayMo marketplace?", "What does ComSoc do?",
+        "Tell me about ComSoc organization", "Is ComSoc part of eBaybayMo?", "Who manages eBaybayMo products?",
+        "What’s the role of ComSoc?", "Is ComSoc a student organization?", "Who are the ComSoc leaders?",
+        "What is the ComSoc organization about?", "Does ComSoc sell products?", "What’s ComSoc’s purpose?",
+        "What does ComSoc do for students?", "Is ComSoc for computer science students?"
+      ],
+      "responses": [
+        "ComSoc is an organization for Computer Science students aimed at building a community to enhance skills in programming, problem-solving, and computer-related fields, preparing them for industry or research careers. It also manages eBaybayMo’s marketplace, selling Baybayin-inspired products like shirts, cups, and mugs."
+      ]
+    },
+    {
+      "tag": "sapasu_organization",
+      "patterns": [
+        "What is SaPaSu?", "What does SaPaSu do?", "Tell me about SaPaSu organization",
+        "Is SaPaSu part of eBaybayMo?", "What’s the role of SaPaSu?", "Does SaPaSu teach Baybayin?",
+        "Are there Baybayin classes by SaPaSu?", "Where does SaPaSu offer classes?",
+        "What’s SaPaSu’s connection to eBaybayMo?", "How does SaPaSu spread Baybayin?"
+      ],
+      "responses": [
+        "SaPaSu is an organization partnered with eBaybayMo, focused on spreading Baybayin’s beauty through free classes at BISU-Bilar campus."
+      ]
+    },
+    {
+      "tag": "baybayin_translation",
+      "patterns": [
+        "Does eBaybayMo translate Baybayin?", "Can I convert Baybayin to Latin letters?",
+        "How does the Baybayin translation work?", "Is there a Baybayin translator in eBaybayMo?",
+        "Can eBaybayMo help with Baybayin script?", "What’s the translation feature in eBaybayMo?",
+        "How do I translate Baybayin?", "Is the Baybayin translation accurate?",
+        "Can I learn Baybayin through translation?", "What’s new with eBaybayMo’s translator?"
+      ],
+      "responses": [
+        "eBaybayMo offers a Baybayin-to-Latin letters translation feature, currently being enhanced to translate Baybayin to Latin words for better accuracy."
+      ]
+    }
+  ]
+}
