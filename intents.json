@@ -143,6 +143,138 @@
       "responses": [
         "eBaybayMo offers a Baybayin-to-Latin letters translation feature, currently being enhanced to translate Baybayin to Latin words for better accuracy."
       ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks", "Thank you", "That's helpful", "Thanks a lot", "Thank you so much",
+        "Much appreciated", "Thanks for the help", "Thanks for your assistance", "I appreciate it",
+        "That’s perfect, thanks", "Thanks for your time", "I’m grateful", "Thanks eBaybayMo", "Cheers"
+      ],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure!",
+        "Glad I could assist!",
+        "You're very welcome!"
+      ]
+    },
+    {
+      "tag": "payment_methods",
+      "patterns": [
+        "What payment methods does eBaybayMo accept?",
+        "Can I pay online for my order?",
+        "Does eBaybayMo accept credit cards?",
+        "How can I pay for my purchase?",
+        "Is cash payment available on eBaybayMo?"
+      ],
+      "responses": [
+        "eBaybayMo currently supports walk-in payment at the ComSoc office. Online payment options are not available yet, but you can pay in cash when you pick up your order."
+      ]
+    },
+    {
+      "tag": "product_availability",
+      "patterns": [
+        "Are Baybayin shirts in stock?",
+        "What products are available right now?",
+        "Is the Baybayin mug available?",
+        "Can I check product stock on eBaybayMo?",
+        "Are there new Baybayin items?"
+      ],
+      "responses": [
+        "You can check product availability on the eBaybayMo marketplace. Common items like Baybayin shirts, mugs, and cups are usually in stock, but it’s best to confirm through the app or website."
+      ]
+    },
+    {
+      "tag": "delivery_options",
+      "patterns": [
+        "Does eBaybayMo offer delivery?",
+        "Can my order be shipped?",
+        "What are the delivery options on eBaybayMo?",
+        "Is there a delivery fee?",
+        "Can I have my order delivered to my address?"
+      ],
+      "responses": [
+        "eBaybayMo currently does not offer delivery. Orders must be picked up at the ComSoc office the next day after placing your order."
+      ]
+    },
+    {
+      "tag": "return_policy",
+      "patterns": [
+        "What is eBaybayMo’s return policy?",
+        "Can I return a product?",
+        "How do I return an item on eBaybayMo?",
+        "What if I get a defective product?",
+        "Is there a refund option on eBaybayMo?"
+      ],
+      "responses": [
+        "eBaybayMo allows returns for defective products. Contact ComSoc through the messenger feature to arrange a return or replacement. Refunds are not available, but you can exchange the item."
+      ]
+    },
+    {
+      "tag": "app_features",
+      "patterns": [
+        "What features does the eBaybayMo app have?",
+        "Can I use eBaybayMo on my phone?",
+        "What’s new in the eBaybayMo app?",
+        "Does the app have a marketplace?",
+        "How do I navigate the eBaybayMo app?"
+      ],
+      "responses": [
+        "The eBaybayMo app includes a Baybayin community for sharing and commenting, a marketplace to buy products, a messenger feature to contact sellers, and a Baybayin-to-Latin translation tool."
+      ]
+    },
+    {
+      "tag": "website_features",
+      "patterns": [
+        "What features does the eBaybayMo website have?",
+        "Can I use eBaybayMo on my browser?",
+        "What’s new on the eBaybayMo website?",
+        "Does the website have a marketplace?",
+        "How do I navigate the eBaybayMo website?"
+      ],
+      "responses": [
+        "The eBaybayMo website offers the same features as the app: a Baybayin community, marketplace, messenger, and translation tool, all accessible through your browser."
+      ]
+    },
+    {
+      "tag": "baybayin_workshops",
+      "patterns": [
+        "Does eBaybayMo offer Baybayin workshops?",
+        "Are there Baybayin classes on eBaybayMo?",
+        "Can I learn Baybayin through eBaybayMo?",
+        "Does SaPaSu host workshops on eBaybayMo?",
+        "How can I join a Baybayin workshop?"
+      ],
+      "responses": [
+        "Through its partnership with SaPaSu, eBaybayMo promotes free Baybayin workshops at BISU-Bilar campus. Check the community section for announcements about upcoming classes."
+      ]
+    },
+    {
+      "tag": "design_customization",
+      "patterns": [
+        "Can I customize a Baybayin shirt?",
+        "Does eBaybayMo offer custom designs?",
+        "Can I request a personalized Baybayin product?",
+        "How do I customize a product on eBaybayMo?",
+        "Is customization available for Baybayin items?"
+      ],
+      "responses": [
+        "eBaybayMo does not currently offer customization for Baybayin products. You can choose from pre-designed shirts, cups, and mugs available in the marketplace."
+      ]
+    },
+    {
+      "tag": "contact_support",
+      "patterns": [
+        "How do I contact eBaybayMo support?",
+        "Who do I reach out to for help on eBaybayMo?",
+        "Is there a support team on eBaybayMo?",
+        "How can I get help with my order?",
+        "Where can I report an issue on eBaybayMo?"
+      ],
+      "responses": [
+        "You can contact eBaybayMo support through the messenger feature on the app or website. Reach out to ComSoc for assistance with orders or other issues."
+      ]
     }
   ]
 }
